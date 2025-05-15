@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: chatbot
+Version: 0.1.0
+Requires-Python: >=3.8
+Requires-Dist: streamlit
+Requires-Dist: speechrecognition
+Requires-Dist: pyaudio
+Requires-Dist: gtts
+Requires-Dist: deep-translator
+Requires-Dist: Pillow
+Requires-Dist: numpy

@@ -1,0 +1,20 @@
+[project]
+name = "urdu-voice-chatbot"
+version = "0.1.0"
+description = "An Urdu voice chatbot for registration forms."
+authors = [
+    {name = "Your Name", email = "your.email@example.com"},
+]
+dependencies = [
+    "streamlit>=1.22",
+    "speechrecognition>=3.8",
+    "pyaudio>=0.2",
+    "gtts>=2.3",
+    "deep-translator>=1.11",
+    "Pillow>=9.0",
+    "numpy>=1.22",
+    "pyttsx3>=2.90",  # Alternative TTS
+    "pandas>=1.4",    # For data handling
+    "validators>=0.20",  # For input validation
+]
+requires-python = ">=3.8"

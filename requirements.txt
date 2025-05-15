@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+pyaudio
+gtts
+pillow
+numpy
